@@ -1,6 +1,7 @@
 # Linear-Regression-vs-Random
 This project is about testing comparability of Random Forest and Linear Regression using German Dataset
 ## Overview
+Describe the overview of the project
 ## Objectives
 ## Dataset (eg.German Dataset and its description)
 ## Technologies used 
