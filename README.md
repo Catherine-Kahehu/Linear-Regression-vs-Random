@@ -8,7 +8,7 @@ To compare the performance of Logistic Regression and Random Forest models in pr
 The study uses the German Dataset whose objective is to classify applicants into credit risk categories based on their likelihood to repay a loan.
 ## Technologies used 
 Python, Sklearn, Pandas, Numpy and Matplotlib.
-# Describe the technologies used
+## Describe the technologies used
 a.	Python was used as the primary programming language for data preprocessing, model development, evaluation, and visualization.
 b.	Sklearn was the main machine learning framework used for data processing, model training and model evaluation 
 c.	Pandas was used for data manipulation and preprocessing. 
