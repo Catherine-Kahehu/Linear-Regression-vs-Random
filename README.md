@@ -17,7 +17,7 @@ Banks can use the model to assess whether an applicant is likely to repay the lo
 ## Results/Key Findings
 Random Forest achieved higher predictive performance than Logistic Regression across the evaluation metrics. Logistic Regression provided more interpretable results, allowing easier identification of the factors influencing credit risk.
 ## Back it up- attach the screenshots
-
+PROJECT B-CREDIT RISK CLASSIFICATION.ipynb
 ## Future Improvemens/ Recommendations
 Future work should focus on improving model performance, interpretability, and real-world deployment capability. Combining advanced models with explainability tools and proper deployment pipelines would make the credit risk system more robust and production-ready for financial institutions.
 ## Author
